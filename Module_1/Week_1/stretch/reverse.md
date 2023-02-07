@@ -19,7 +19,7 @@ node reverse.js hello goodbye
 olleh
 eybdoog
 ```
-I have 
+I have (not without mentor help)
 ```
 eybdoog
 olleh
