@@ -1,4 +1,4 @@
-## Recursion
+# Recursion
 **Recursion** is an alternative to traditional looping that allows you to do the same thing, just in a slightly different way. Recursion isn't necessarily a better way of doing this, it's just a different way of doing this.
 
 ```javascript
@@ -20,6 +20,21 @@ while (number <= 12) {
   console.log(number);
   number += 2;
 }
+```
+### Summing with Recursion
+```javascript
+function sumToOne(n) {
+  if (n === 1) {
+    return 1;
+  }
+
+  return n + sumToOne(n - 1); //return 'n' + sum of all numbers from 1 to(n-1)
+}
+
+console.log(sumToOne(4));
+```
+```
+result 10
 ```
 
 ## Conclusion
