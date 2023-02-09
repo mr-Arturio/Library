@@ -9,4 +9,4 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
   * [Week 1](/Module_1/Week_1)
   * [Week 2](/Module_1/Week_2)
   * [Week 3](/Module_1/Week_3)
-9
+  * [Week 4]((/Module_1/Week_4))
