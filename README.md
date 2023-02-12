@@ -5,7 +5,7 @@
 This repository contains all of the notes taken by [Artur Tereshchenko](https://github.com/mr-Arturio) for the Lighthouse Labs Web Developer Bootcamp 2023.
 
 ### Useful
-*[Recursion Function](/useful/recursionFunction.md)
+* [Recursion Function](/useful/recursionFunction.md)
 * [Palindrome](/useful/palindrome.md)
 
 
