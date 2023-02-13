@@ -1,8 +1,34 @@
 # OOP - Object Oriented Programming
-**Example:**
+**Examples:**
 
+---
+### Simple example 
+* In object oriented programming, we use objects to group related variables and functions together to keep our code more organized. If we have different pieces of code that all relate to a dog, let's put them in a dog object
+
+
+```javascript
+const dog = {
+  sound: "woof", // Property
+  breed: "shih tzu", // Property
+  speak: function() { // Method
+     console.log(this.sound);
+  },
+  teachMeSomething: function() {
+    if (dog === this) {
+      console.log('dog === this');
+    }
+    this.speak();
+  }
+};
+
+dog.teachMeSomething(); //woof
+```
+* The "*teachMeSomething*" function is executed, and because it is called on the "*dog*" object, "*this*" inside the function will refer to the "*dog*" object. This means that "dog === this" will evaluate to true, and the string "*dog === this*" will be logged to the console.
+* Next, the "*speak*": method is called, which will log the value of "*this.sound*" to the console. Because "*this*" inside the speak method refers to the dog object, the value of "*this.sound*" will be the string value stored in the "*sound*" property of the "*dog*" object.
+---
+### Regular code step by step transformation:
 ## 1 
-### Basic Code
+### *Basic Code*
 ---
 ``` javascript
 // Arrays to keep track of each task's state
@@ -41,7 +67,7 @@ logTaskState(0); // Clean Cat Litter has been completed
 ```
 
 ## 2
-### Refactor Functions
+### *Refactor Functions*
 ---
 ```javascript
 function logTaskState(task) {
@@ -67,7 +93,7 @@ console.log(tasks);
 ```
 
 ## 3
-### Use Methods
+### *Use Methods*
 ---
 ```javascript
 function newTask(title, description) {
