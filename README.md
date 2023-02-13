@@ -7,6 +7,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 ### Useful
 * [Recursion Function](/useful/recursionFunction.md)
 * [Palindrome](/useful/palindrome.md)
+* [OOP(Method + this)](/useful/toDoList.md)
 
 
 ### Table of Content                     
