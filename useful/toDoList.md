@@ -23,8 +23,8 @@ const dog = {
 
 dog.teachMeSomething(); //woof
 ```
-* The "*teachMeSomething*" function is executed, and because it is called on the "*dog*" object, "*this*" inside the function will refer to the "*dog*" object. This means that "dog === this" will evaluate to true, and the string "*dog === this*" will be logged to the console.
-* Next, the "*speak*": method is called, which will log the value of "*this.sound*" to the console. Because "*this*" inside the speak method refers to the dog object, the value of "*this.sound*" will be the string value stored in the "*sound*" property of the "*dog*" object.
+* The ```teachMeSomething``` function is executed, and because it is called on the ```dog``` object, ```this``` inside the function will refer to the ```dog``` object. This means that ```dog === this``` will evaluate to true, and the string ```dog === this``` will be logged to the console.
+* Next, the ```speak``` method is called, which will log the value of ```this.sound``` to the console. Because ```this``` inside the speak method refers to the dog object, the value of ```this.sound``` will be the string value stored in the ```sound``` property of the ```dog``` object.
 ---
 ### Regular code step by step transformation:
 ## 1 
