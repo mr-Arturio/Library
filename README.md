@@ -9,6 +9,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [Palindrome](/useful/palindrome.md)
 * [OOP(Method + this)](/useful/toDoList.md)
   * [OOP example](/Module_1/Week_4/classOOP_example.md)
+* [setTimeout](/Module_1/Week_4/setTimeoutExample.md)
 
 
 ### Lectures
