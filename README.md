@@ -10,6 +10,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [OOP(Method + this)](/useful/toDoList.md)
   * [OOP example](/Module_1/Week_4/classOOP_example.md)
 * [setTimeout](/Module_1/Week_4/setTimeoutExample.md)
+* [Callback Function](/Module_2/callbackExample.md)
 
 
 ### Lectures
@@ -26,3 +27,4 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
   * [Week 2](/Module_1/Week_2)
   * [Week 3](/Module_1/Week_3)
   * [Week 4](/Module_1/Week_4)
+* [Module 2/Week 5](/Module_2)
