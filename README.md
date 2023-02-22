@@ -11,6 +11,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
   * [OOP example](/Module_1/Week_4/classOOP_example.md)
 * [setTimeout](/Module_1/Week_4/setTimeoutExample.md)
 * [Callback Function](/Module_2/callbackExample.md)
+* [HTTP uses TCP example](/module_2/httpExample.js)
 
 
 ### Lectures
