@@ -12,7 +12,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [setTimeout](/Module_1/Week_4/setTimeoutExample.md)
 * [Callback Function](/Module_2/callbackExample.md)
 * [HTTP uses TCP example](/Module_2/httpExample.js)
- * [Page Downloader - application that downloads a file from a given URL and saves it to a local file on your machine.](/page-fetcher/fetcher.js)
+ * [Page Downloader](https://github.com/mr-Arturio/page-fetcher) - application that downloads a file from a given URL and saves it to a local file on your machine.
 
 
 ### Lectures
