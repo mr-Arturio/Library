@@ -16,9 +16,9 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 
 
 ### Lectures
-* 
-* 
-* 
+* [Objects in JavaScript](/Module_1/Week_2/L1_JS_Objects.md)
+* [Test Driven Development with Mocha and Chai](/Module_1/Week_3/TDD_Mocha_Chai.md)
+* [Asynchronous Control Flow](/Module_1/Week_4/AsynchControlFlow.md)
  
 
 
