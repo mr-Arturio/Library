@@ -19,6 +19,11 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [Objects in JavaScript](/Module_1/Week_2/L1_JS_Objects.md)
 * [Test Driven Development with Mocha and Chai](/Module_1/Week_3/TDD_Mocha_Chai.md)
 * [Asynchronous Control Flow](/Module_1/Week_4/AsynchControlFlow.md)
+* [Promises + Error handling](https://github.com/senhorgomes/lectures-flex-day-jan-23-cohort/tree/main/m2w5/Promises)
+* [Web Servers 101 (Express, middleware)](https://github.com/Masavi/lhl-lectures/tree/main/m03/w06/web-servers-101)
+* [CRUD with Express(Create, Read, Update, Delete)](https://github.com/senhorgomes/lectures-flex-day-jan-23-cohort/tree/main/m3w6/CRUD)
+* [HTTP Cookies and Authentication](https://github.com/Masavi/lhl-lectures/tree/main/m04/w07/http-cookies)
+* [Real World HTTP Servers(Security, middleware)](https://github.com/senhorgomes/lectures-flex-day-jan-23-cohort/tree/main/m3w7/Security)
  
 
 
