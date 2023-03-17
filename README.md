@@ -13,7 +13,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [Callback Function](/Module_2/callbackExample.md)
 * [HTTP uses TCP example](/Module_2/httpExample.js)
  * [Page Downloader](https://github.com/mr-Arturio/page-fetcher) - application that downloads a file from a given URL and saves it to a local file on your machine.
-
+* [CSS FlexBox cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Lectures
 * [Objects in JavaScript](/Module_1/Week_2/L1_JS_Objects.md)
@@ -24,6 +24,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [CRUD with Express(Create, Read, Update, Delete)](https://github.com/senhorgomes/lectures-flex-day-jan-23-cohort/tree/main/m3w6/CRUD)
 * [HTTP Cookies and Authentication](https://github.com/Masavi/lhl-lectures/tree/main/m04/w07/http-cookies)
 * [Real World HTTP Servers(Security, middleware)](https://github.com/senhorgomes/lectures-flex-day-jan-23-cohort/tree/main/m3w7/Security)
+* [Intro to CSS. Box Model. Flexbox](https://github.com/Masavi/lhl-lectures/tree/main/m04/w08/intro-css)
  
 
 
