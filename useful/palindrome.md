@@ -12,7 +12,7 @@ For this solution, we will use several methods:
 ```javascript
 function palindrome(str) {
   // Step 1. Lowercase the string and use the RegExp to remove unwanted characters from it
-  const re = /[\W_]/g; // or var re = /[^A-Za-z0-9]/g;
+  const re = /[\W_]/g; // or const re = /[^A-Za-z0-9]/g;
   
  let lowRegStr = str.toLowerCase().replace(re, '');
   // str.toLowerCase() = "A man, a plan, a canal. Panama".toLowerCase() = "a man, a plan, a canal. panama"
@@ -49,7 +49,7 @@ Half-indexing (len/2) has benefits when processing large strings. We check the e
 ``` javascript
 function palindrome(str) {
  // Step 1. The first part is the same as earlier
- const re = /[^A-Za-z0-9]/g; // or var re = /[\W_]/g;
+ const re = /[^A-Za-z0-9]/g; // or const re = /[\W_]/g;
  str = str.toLowerCase().replace(re, '');
 
  // Step 2. Create the FOR loop
