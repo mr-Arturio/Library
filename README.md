@@ -29,6 +29,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [DOM/Client Side Javascript & **jQuery**](https://github.com/senhorgomes/lectures-flex-day-jan-23-cohort/tree/main/m4w8/jqueryLecture)
 * [**AJAX**/JQuery](https://github.com/Masavi/lhl-lectures/tree/main/m04/w09/ajax)
 * [Databases/**SQL** Intro](https://github.com/Masavi/lhl-lectures/tree/main/m05/w11/sql-intro)
+* [**Postgresql** - Node PG](https://github.com/Masavi/lhl-lectures/tree/main/m05/w12/sql-apps)
  
 
 
