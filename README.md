@@ -31,6 +31,13 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [Databases/**SQL** Intro](https://github.com/Masavi/lhl-lectures/tree/main/m05/w11/sql-intro)
 * [**Postgresql** - Node PG](https://github.com/Masavi/lhl-lectures/tree/main/m05/w12/sql-apps)
  
+ 
+ ### Projects
+ * [Cafe-menu-page](https://github.com/mr-Arturio/Basic-CSS-Cafe-menu-page)- Basic CSS.
+ * [Pricing Panel](https://github.com/mr-Arturio/Pricing-Panel-Project-Udemy) - CSS, Flexbox, mobile/desctop layouts.
+ * [A Clock](https://github.com/mr-Arturio/A-Clock-With-JavaScrip)- with JS & CSS.
+ * [TinyApp](https://github.com/mr-Arturio/tinyapp) - firs *big* project, very challanging. Routs, Node and Express that allows users to shorten long URLs.
+ * [tweeter](https://github.com/mr-Arturio/tweeter)- twitter clone project, worked on CSS and mobile/desctop layouts.
 
 
 ## Table of Content                     
