@@ -30,6 +30,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [**AJAX**/JQuery](https://github.com/Masavi/lhl-lectures/tree/main/m04/w09/ajax)
 * [Databases/**SQL** Intro](https://github.com/Masavi/lhl-lectures/tree/main/m05/w11/sql-intro)
 * [**Postgresql** - Node PG](https://github.com/Masavi/lhl-lectures/tree/main/m05/w12/sql-apps)
+* [**React** Fundamentals](https://github.com/Masavi/lhl-lectures/tree/main/m07/w16/react-fundamentals)
  
  
  ### Projects
