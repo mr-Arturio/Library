@@ -40,12 +40,3 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
  * [TinyApp](https://github.com/mr-Arturio/tinyapp) - firs *big* project, very challanging. Routs, Node and Express that allows users to shorten long URLs.
  * [tweeter](https://github.com/mr-Arturio/tweeter)- twitter clone project, worked on CSS and mobile/desctop layouts.
 
-
-## Table of Content                     
------     
-* [Module 1](/Module_1)
-  * [Week 1](/Module_1/Week_1)
-  * [Week 2](/Module_1/Week_2)
-  * [Week 3](/Module_1/Week_3)
-  * [Week 4](/Module_1/Week_4)
-* [Module 2/Week 5](/Module_2)
