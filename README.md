@@ -39,4 +39,5 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
  * [A Clock](https://github.com/mr-Arturio/A-Clock-With-JavaScrip)- with JS & CSS.
  * [TinyApp](https://github.com/mr-Arturio/tinyapp) - firs *big* project, very challanging. Routs, Node and Express that allows users to shorten long URLs.
  * [tweeter](https://github.com/mr-Arturio/tweeter)- twitter clone project, worked on CSS and mobile/desctop layouts.
+ * [PlayNation_Project](https://github.com/mr-Arturio/PlayNation_Project) - **Midterm** group project. This is a Buy/Sell listing website
 
