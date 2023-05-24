@@ -31,6 +31,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [Databases/**SQL** Intro](https://github.com/Masavi/lhl-lectures/tree/main/m05/w11/sql-intro)
 * [**Postgresql** - Node PG](https://github.com/Masavi/lhl-lectures/tree/main/m05/w12/sql-apps)
 * [**React** Fundamentals](https://github.com/Masavi/lhl-lectures/tree/main/m07/w16/react-fundamentals)
+* [**React**, Data Fetching and Other Side Effects, Hooks, useEffect](https://github.com/Masavi/lhl-lectures/tree/main/m07/w18/data-fetching)
  
  
  ### Projects
