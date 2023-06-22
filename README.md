@@ -34,6 +34,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [**React** Fundamentals](https://github.com/Masavi/lhl-lectures/tree/main/m07/w16/react-fundamentals), [React Review. Example](https://github.com/Masavi/lhl-lectures/tree/main/m07/w19/react-review)
 * [**React**, Data Fetching and Other Side Effects, Hooks, useEffect](https://github.com/Masavi/lhl-lectures/tree/main/m07/w18/data-fetching)
 * [Unit & Integration **Testing**](https://github.com/Masavi/lhl-lectures/tree/main/m08/w20/unit-integration-testing)
+* [Intro to **Ruby**](https://github.com/SomeChineseGuy/WebFlex-Jan-2023/tree/main/M9W22%20Intro%20to%20Ruby)
  
  
  ### Projects
