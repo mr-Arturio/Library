@@ -14,7 +14,8 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [HTTP uses TCP example](/Module_2/httpExample.js)
  * [Page Downloader](https://github.com/mr-Arturio/page-fetcher) - application that downloads a file from a given URL and saves it to a local file on your machine.
 * [CSS FlexBox cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [Binary search algorithm](/useful/binarySearch.md) -  JavaScript implementation of the binary search algorithm for searching for a target value within a sorted array of numbers. 
+* [Binary search algorithm](/useful/binarySearch.md) -  JavaScript implementation of the binary search algorithm for searching for a target value within a sorted array of numbers.
+* [**Ruby** basic cheat-sheet](https://learnxinyminutes.com/docs/ruby/) - a crash course into Ruby.
 
 ### Lectures
 * [**Objects** in JavaScript](/Module_1/Week_2/L1_JS_Objects.md)
@@ -29,14 +30,19 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [DOM/Client Side Javascript & **jQuery**](https://github.com/senhorgomes/lectures-flex-day-jan-23-cohort/tree/main/m4w8/jqueryLecture)
 * [**AJAX**/JQuery](https://github.com/Masavi/lhl-lectures/tree/main/m04/w09/ajax)
 * [Databases/**SQL** Intro](https://github.com/Masavi/lhl-lectures/tree/main/m05/w11/sql-intro)
+* [**Postgresql** - Node PG](https://github.com/Masavi/lhl-lectures/tree/main/m05/w12/sql-apps)
+* [**React** Fundamentals](https://github.com/Masavi/lhl-lectures/tree/main/m07/w16/react-fundamentals), [React Review. Example](https://github.com/Masavi/lhl-lectures/tree/main/m07/w19/react-review)
+* [**React**, Data Fetching and Other Side Effects, Hooks, useEffect](https://github.com/Masavi/lhl-lectures/tree/main/m07/w18/data-fetching)
+* [Unit & Integration **Testing**](https://github.com/Masavi/lhl-lectures/tree/main/m08/w20/unit-integration-testing)
+* [Intro to **Ruby**](https://github.com/SomeChineseGuy/WebFlex-Jan-2023/tree/main/M9W22%20Intro%20to%20Ruby)
+* [Intro to **Machine Learning**](https://github.com/senhorgomes/lectures-flex-day-jan-23-cohort/tree/main/m9w23/MachineLearningLecture)
  
+ 
+ ### Projects
+ * [Cafe-menu-page](https://github.com/mr-Arturio/Basic-CSS-Cafe-menu-page)- Basic CSS.
+ * [Pricing Panel](https://github.com/mr-Arturio/Pricing-Panel-Project-Udemy) - CSS, Flexbox, mobile/desctop layouts.
+ * [A Clock](https://github.com/mr-Arturio/A-Clock-With-JavaScrip)- with JS & CSS.
+ * [TinyApp](https://github.com/mr-Arturio/tinyapp) - firs *big* project, very challanging. Routs, Node and Express that allows users to shorten long URLs.
+ * [tweeter](https://github.com/mr-Arturio/tweeter)- twitter clone project, worked on CSS and mobile/desctop layouts.
+ * [PlayNation_Project](https://github.com/mr-Arturio/PlayNation_Project) - **Midterm** group project. This is a Buy/Sell listing website
 
-
-## Table of Content                     
------     
-* [Module 1](/Module_1)
-  * [Week 1](/Module_1/Week_1)
-  * [Week 2](/Module_1/Week_2)
-  * [Week 3](/Module_1/Week_3)
-  * [Week 4](/Module_1/Week_4)
-* [Module 2/Week 5](/Module_2)
