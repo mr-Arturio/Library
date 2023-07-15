@@ -4,10 +4,10 @@ Every programming language has its own quirks, advantages, and disadvantages. Ja
 
 ![meme](./docs/meme1.png)
 
-What makes programming languages intriguing is that they offer various approaches to solving problems, often with their own unique twists. While achieving the same results across different languages is possible, the journey to reach those outcomes can sometimes be quite unusual  and surprising. This diversity of approaches is what fuels innovation and allows developers to choose the language that best aligns with their specific needs and preferences. That's why it's considered good practice to familiarize yourself with other programming languages and become a "programming polyglot." By expanding your knowledge beyond a single language, you gain a fresh perspective and open your mind to different approaches. It allows you to tackle common tasks from different angles and broadens your understanding of programming concepts. Becoming a programming polyglot can enhance your problem-solving skills and make you a more versatile developer.
+What makes programming languages intriguing is that they offer various approaches to solving problems, often with their own unique twists. While achieving the same results across different languages is possible, the journey to reach those outcomes can sometimes be quite unusual  and surprising. This diversity of approaches is what fuels innovation and allows developers to choose the language that best aligns with their specific needs and preferences. That's why it's considered good practice to familiarize yourself with other programming languages and become a "programming polyglot." Expanding your knowledge beyond a single language gives you a fresh perspective and opens your mind to different approaches. It allows you to tackle common tasks from different angles and broadens your understanding of programming concepts. Becoming a programming polyglot can enhance your problem-solving skills and make you a more versatile developer.
  In this article, we will explore some of the weird aspects of JavaScript that often leave developers scratching their heads.
 
-Lets check some of those wild and wierd examples:
+Let us check some of those wild and weird examples:
 
 ### 1. Comparison of three numbers:
 
@@ -57,10 +57,12 @@ The ```parseInt()``` function in JavaScript is used to convert strings to intege
 
 ### 4. Decimal Arithmetic Quirks:
 
-![Decimal Arithmetic Quirks](./docs/decimal.png)
-
+```javascript
+0.1 + 0.2 === 0.3; // -> false
+0.5 + 0.1 === 0.6; // -> true
+```
 JavaScript's handling of floating-point numbers can lead to unexpected results. For example, when adding 0.2 and 0.1, instead of getting 0.3, you might end up with 0.30000000000000004 due to precision issues. Comparisons involving floating-point numbers should be done with a tolerance level to account for these discrepancies. 
-You can read much more detailed article over here [Understanding JavaScript’s Weird Decimal Calculations](https://medium.com/@DominicCarmel/understanding-javascripts-weird-decimal-calculations-e65f0e1adefb)
+You can read a much more detailed article over here [Understanding JavaScript’s Weird Decimal Calculations](https://medium.com/@DominicCarmel/understanding-javascripts-weird-decimal-calculations-e65f0e1adefb)
 
 ### 5. The NaN Conundrum:
 
@@ -71,7 +73,7 @@ Wait a second, Not a Number is a 'number'?
 
 ```NaN``` is a special value in JavaScript representing an undefined or indeterminate numeric value. Surprisingly, ```NaN``` is considered a numeric value itself. When comparing ```NaN``` to another ```NaN``` using the strict equality operator (===), the result is false. This is because ```NaN``` represents an undefined value and does not have a well-defined equality comparison.
 
-### 6. Wierd way to write a text:
+### 6. Weird way to write a text:
 
 ![banana](./docs/banana.png)
 
@@ -89,16 +91,16 @@ The result of the concatenation becomes 'baNaNa'.
 The toLowerCase() method is called on the string 'baNaNa', converting it to lowercase. 
 The final result is the string 'banana'. 
 
-Here is another example with explanation:
+Here is another example with an explanation:
 
 ![Hello World!](./docs/world.png)
 
 The code snippet demonstrates the creative use of JavaScript's operators and type conversions to extract characters and form the string 'Hello World!'. It showcases the flexibility and ingenuity of JavaScript programming, where unconventional approaches can yield intriguing results. 
 
-Here is a realy cool and fun tool that helsp you [Write a sentence without using the Alphabet](https://bluewings.github.io/en/writing-a-sentence-without-using-the-alphabet/#weird-javascript-generator)
+Here is a really cool and fun tool that helps you [Write a sentence without using the Alphabet](https://bluewings.github.io/en/writing-a-sentence-without-using-the-alphabet/#weird-javascript-generator)
 
 ### Bonus:
-### TML Comments as JavaScript Comments:
+### HTML Comments as JavaScript Comments:
 
 ![HTML Comments as JavaScript Comments](./docs/comment.png)
 
@@ -111,7 +113,7 @@ ___
 
 #### Aditional Resources:
 
-For sure try this fun [quiz](https://jsisweird.com/), you'll be shown 25 quirky expressions and will have to guess the output. What is your score? Mine was embarasing 11)
+For sure try this fun [quiz](https://jsisweird.com/), you'll be shown 25 quirky expressions and will have to guess the output. What is your score? Mine was embarrassing 11)
 
 Much, much wider list of funny and tricky JavaScript examples here [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 
