@@ -2,7 +2,7 @@
 
 Every programming language has its own quirks, advantages, and disadvantages. JavaScript, in particular, has gained a reputation for its peculiarities and unexpected behaviors. If you've been working in a single environment for a long time, you may not realize how strange certain tools or practices can appear to developers from other backgrounds
 
-![meme](./docs/IMG_20230714_223928_319.jpg)
+![meme](./docs/meme1.png)
 
 What makes programming languages intriguing is that they offer various approaches to solving problems, often with their own unique twists. While achieving the same results across different languages is possible, the journey to reach those outcomes can sometimes be quite unusual  and surprising. This diversity of approaches is what fuels innovation and allows developers to choose the language that best aligns with their specific needs and preferences. That's why it's considered good practice to familiarize yourself with other programming languages and become a "programming polyglot." By expanding your knowledge beyond a single language, you gain a fresh perspective and open your mind to different approaches. It allows you to tackle common tasks from different angles and broadens your understanding of programming concepts. Becoming a programming polyglot can enhance your problem-solving skills and make you a more versatile developer.
  In this article, we will explore some of the weird aspects of JavaScript that often leave developers scratching their heads.
