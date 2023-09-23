@@ -15,6 +15,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
  * [Page Downloader](https://github.com/mr-Arturio/page-fetcher) - application that downloads a file from a given URL and saves it to a local file on your machine.
 * [CSS FlexBox cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Binary search algorithm](/useful/binarySearch.md) -  JavaScript implementation of the binary search algorithm for searching for a target value within a sorted array of numbers.
+* [**GitHub** cheat-sheet](https://cs.fyi/guide/git-cheatsheet)
 * [**Ruby** basic cheat-sheet](https://learnxinyminutes.com/docs/ruby/) - a crash course into Ruby.
 
 ### Lectures
