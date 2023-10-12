@@ -2,19 +2,24 @@
 
 ## Summary
 
-This repository contains all of the notes taken by [Artur Tereshchenko](https://github.com/mr-Arturio) for the Lighthouse Labs Web Developer Bootcamp 2023.
+This repository contains all of the notes taken by [Artur Tereshchenko](https://github.com/mr-Arturio) for the learning purposes. Here I will colect all materiaals that i find useful (examples, cheatsheets etc). Also I have link to all Lighthouse Labs lectures and list of my projects.
 
 ### Handy
-* [Recursion Function](/useful/recursionFunction.md)
-* [Palindrome](/useful/palindrome.md)
-* [OOP(Method + this)](/useful/toDoList.md)
-  * [OOP example](/Module_1/Week_4/classOOP_example.md)
-* [setTimeout](/Module_1/Week_4/setTimeoutExample.md)
-* [Callback Function](/Module_2/callbackExample.md)
+* JavaScript
+  * [Recursion Function](/useful/recursionFunction.md)
+  * [Palindrome](/useful/palindrome.md)
+  * [OOP(Method + this)](/useful/toDoList.md)
+    * [OOP example](/Module_1/Week_4/classOOP_example.md)
+  * [setTimeout](/Module_1/Week_4/setTimeoutExample.md)
+  * [Callback Function](/Module_2/callbackExample.md)
+  * [Binary search algorithm](/useful/binarySearch.md) -  JavaScript implementation of the binary search algorithm for searching for a target value within a sorted array of numbers.
+  <br>
+* HTML/CSS 
+  * [CSS FlexBox cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  * [Form](./HTML_CSS/Form/) - simple form example HTML and CSS
+  <br>
 * [HTTP uses TCP example](/Module_2/httpExample.js)
  * [Page Downloader](https://github.com/mr-Arturio/page-fetcher) - application that downloads a file from a given URL and saves it to a local file on your machine.
-* [CSS FlexBox cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [Binary search algorithm](/useful/binarySearch.md) -  JavaScript implementation of the binary search algorithm for searching for a target value within a sorted array of numbers.
 * [**Ruby** basic cheat-sheet](https://learnxinyminutes.com/docs/ruby/) - a crash course into Ruby.
 
 ### Lectures
