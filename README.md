@@ -5,6 +5,7 @@
 This repository contains all of the notes taken by [Artur Tereshchenko](https://github.com/mr-Arturio) for the learning purposes. Here I will colect all materiaals that i find useful (examples, cheatsheets etc). Also I have link to all Lighthouse Labs lectures and list of my projects.
 
 ### Handy
+* for emojis in VS - windows key + . (dot)
 * JavaScript
   * [Recursion Function](/useful/recursionFunction.md)
   * [Palindrome](/useful/palindrome.md)
@@ -20,6 +21,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
   <br>
 * [HTTP uses TCP example](/Module_2/httpExample.js)
  * [Page Downloader](https://github.com/mr-Arturio/page-fetcher) - application that downloads a file from a given URL and saves it to a local file on your machine.
+* [**Git** cheat-sheet](https://cs.fyi/guide/git-cheatsheet)
 * [**Ruby** basic cheat-sheet](https://learnxinyminutes.com/docs/ruby/) - a crash course into Ruby.
 
 ### Lectures
