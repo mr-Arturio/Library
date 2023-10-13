@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository contains all of the notes taken by [Artur Tereshchenko](https://github.com/mr-Arturio) for the learning purposes. Here I will colect all materiaals that i find useful (examples, cheatsheets etc). Also I have link to all Lighthouse Labs lectures and list of my projects.
+This repository contains all of the notes taken by [Artur Tereshchenko](https://github.com/mr-Arturio) for learning purposes. Here I will collect all materials that I find useful (examples, cheat sheets, etc). Also, I have a link to all Lighthouse Labs lectures and a list of my projects.
 
 ### Handy
 * for emojis in VS - windows key + . (dot)
@@ -47,9 +47,9 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
  
  ### Projects
  * [Cafe-menu-page](https://github.com/mr-Arturio/Basic-CSS-Cafe-menu-page)- Basic CSS.
- * [Pricing Panel](https://github.com/mr-Arturio/Pricing-Panel-Project-Udemy) - CSS, Flexbox, mobile/desctop layouts.
+ * [Pricing Panel](https://github.com/mr-Arturio/Pricing-Panel-Project-Udemy) - CSS, Flexbox, mobile/desktop layouts.
  * [A Clock](https://github.com/mr-Arturio/A-Clock-With-JavaScrip)- with JS & CSS.
- * [TinyApp](https://github.com/mr-Arturio/tinyapp) - firs *big* project, very challanging. Routs, Node and Express that allows users to shorten long URLs.
- * [tweeter](https://github.com/mr-Arturio/tweeter)- twitter clone project, worked on CSS and mobile/desctop layouts.
+ * [TinyApp](https://github.com/mr-Arturio/tinyapp) - firs *big* project, very challanging. Routs, Node, and Express allow users to shorten long URLs.
+ * [tweeter](https://github.com/mr-Arturio/tweeter)- Twitter clone project, worked on CSS and mobile/desktop layouts.
  * [PlayNation_Project](https://github.com/mr-Arturio/PlayNation_Project) - **Midterm** group project. This is a Buy/Sell listing website
 
