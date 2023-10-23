@@ -1,0 +1,11 @@
+html {
+  background-color: #f0e3e3;
+  font-size: 16px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
