@@ -18,6 +18,8 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * HTML/CSS 
   * [CSS FlexBox cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   * [Form](./HTML_CSS/Form/) - simple form example HTML and CSS
+  * [Quiz](./HTML_CSS/Quiz/) - Quiz page example
+  * [Typhography](./HTML_CSS/Typography/) - product label example.
   <br>
 * [HTTP uses TCP example](/Module_2/httpExample.js)
  * [Page Downloader](https://github.com/mr-Arturio/page-fetcher) - application that downloads a file from a given URL and saves it to a local file on your machine.
