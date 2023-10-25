@@ -1,6 +1,7 @@
 html {
   background-color: #f0e3e3;
   font-size: 16px;
+  text-align: center;
 }
 
 #image {
@@ -16,3 +17,20 @@ html {
   margin: 0;
 }
 
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
