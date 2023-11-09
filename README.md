@@ -19,7 +19,14 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
   * [CSS FlexBox cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   * [Form](./HTML_CSS/Form/) - simple form example HTML and CSS
   * [Quiz](./HTML_CSS/Quiz/) - Quiz page example
-  * [Typhography](./HTML_CSS/Typography/) - product label example.
+  * [Typography](./HTML_CSS/Typography/) - product label example.
+  * [Balance Sheet](./HTML_CSS/BalanceSheet/) - balance sheet using pseudo selectors.
+  * [Cat Painting](./HTML_CSS/CatPainting/) - cat painting.  absolute positioning, the z-index property, and the transform property.
+  * [Piano](./HTML_CSS/Piano/) - Responsive Design,  media queries and pseudo-selectors.
+  * [Magazin](./HTML_CSS/Magazin/) - Magazin article using CSS Grid
+  * [City Skylines](./HTML_CSS/CitySkyline/) - CSS variables and @media
+  * [Ferris Wheel](./HTML_CSS/FerrisWheel/) - CSS animation
+
   <br>
 * [HTTP uses TCP example](/Module_2/httpExample.js)
  * [Page Downloader](https://github.com/mr-Arturio/page-fetcher) - application that downloads a file from a given URL and saves it to a local file on your machine.
