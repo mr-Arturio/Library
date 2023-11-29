@@ -27,6 +27,10 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
   * [City Skylines](./HTML_CSS/CitySkyline/) - CSS variables and @media
   * [Ferris Wheel](./HTML_CSS/FerrisWheel/) - CSS animation
 
+* Databases
+ * [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) is a good online interactive resource for learning and practicing SQL.
+ * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql) - SQL tutorials
+
   <br>
 * [HTTP uses TCP example](/Module_2/httpExample.js)
  * [Page Downloader](https://github.com/mr-Arturio/page-fetcher) - application that downloads a file from a given URL and saves it to a local file on your machine.
