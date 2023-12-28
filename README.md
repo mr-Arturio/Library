@@ -14,6 +14,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
   * [setTimeout](/Module_1/Week_4/setTimeoutExample.md)
   * [Callback Function](/Module_2/callbackExample.md)
   * [Binary search algorithm](/useful/binarySearch.md) -  JavaScript implementation of the binary search algorithm for searching for a target value within a sorted array of numbers.
+  * [Mapping/while](/useful/mapping.md) - The function begins by defining a mapping (romanMap) of Roman numerals to their corresponding Arabic values in descending order + while loop.
   <br>
 * HTML/CSS 
   * [CSS FlexBox cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -65,4 +66,5 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
  * [TinyApp](https://github.com/mr-Arturio/tinyapp) - firs *big* project, very challanging. Routs, Node, and Express allow users to shorten long URLs.
  * [tweeter](https://github.com/mr-Arturio/tweeter)- Twitter clone project, worked on CSS and mobile/desktop layouts.
  * [PlayNation_Project](https://github.com/mr-Arturio/PlayNation_Project) - **Midterm** group project. This is a Buy/Sell listing website
+ * [DreamTales](https://github.com/mr-Arturio/DreamTales) - final project, A personalized kids' bedtime story app that uses OpenAI to generate customized stories based on user input and other information. Next.js, Tailwind, Google Cloud, OpenAi. Deployed
 
