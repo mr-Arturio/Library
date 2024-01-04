@@ -59,7 +59,8 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 * [Intro to **Machine Learning**](https://github.com/senhorgomes/lectures-flex-day-jan-23-cohort/tree/main/m9w23/MachineLearningLecture)
  
  
- ### Projects
+ ### Projects 
+ * [Portfolio Web Site](https://github.com/mr-Arturio/Portfolio-Website) - with vanilla JS and CSS, responsive
  * [Cafe-menu-page](https://github.com/mr-Arturio/Basic-CSS-Cafe-menu-page)- Basic CSS.
  * [Pricing Panel](https://github.com/mr-Arturio/Pricing-Panel-Project-Udemy) - CSS, Flexbox, mobile/desktop layouts.
  * [A Clock](https://github.com/mr-Arturio/A-Clock-With-JavaScrip)- with JS & CSS.
