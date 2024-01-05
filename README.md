@@ -34,7 +34,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
 
   <br>
 * [HTTP uses TCP example](/Module_2/httpExample.js)
- * [Page Downloader](https://github.com/mr-Arturio/page-fetcher) - application that downloads a file from a given URL and saves it to a local file on your machine.
+* [Page Downloader](https://github.com/mr-Arturio/page-fetcher) - application that downloads a file from a given URL and saves it to a local file on your machine.
 * [**Git** cheat-sheet](https://cs.fyi/guide/git-cheatsheet)
 * [**Ruby** basic cheat-sheet](https://learnxinyminutes.com/docs/ruby/) - a crash course into Ruby.
 
