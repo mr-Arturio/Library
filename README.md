@@ -5,7 +5,8 @@
 This repository contains all of the notes taken by [Artur Tereshchenko](https://github.com/mr-Arturio) for learning purposes. Here I will collect all materials that I find useful (examples, cheat sheets, etc). Also, I have a link to all Lighthouse Labs lectures and a list of my projects.
 
 ### Handy
-* for emojis in VS - windows key + . (dot)
+ * for emojis in VS - windows key + . (dot)
+ * ```++n``` & ```n++``` - differ in when they increment the value of n. ```++n``` Increments `n` before its current value is used or returned. ```n++``` Increments `n` after its current value is used or returned.
 * JavaScript
   * [Recursion Function](/useful/recursionFunction.md)
   * [Palindrome](/useful/palindrome.md)
@@ -29,14 +30,17 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
   * [Ferris Wheel](./HTML_CSS/FerrisWheel/) - CSS animation
 
 * Databases
- * [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) is a good online interactive resource for learning and practicing SQL.
- * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql) - SQL tutorials
+  * [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) is a good online interactive resource for learning and practicing SQL.
+  * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql) - SQL tutorials
 
-  <br>
-* [HTTP uses TCP example](/Module_2/httpExample.js)
-* [Page Downloader](https://github.com/mr-Arturio/page-fetcher) - application that downloads a file from a given URL and saves it to a local file on your machine.
-* [**Git** cheat-sheet](https://cs.fyi/guide/git-cheatsheet)
-* [**Ruby** basic cheat-sheet](https://learnxinyminutes.com/docs/ruby/) - a crash course into Ruby.
+ <br/>
+
+* [HTTP using TCP Example - Code](/Module_2/httpExample.js) - JavaScript example demonstrating how HTTP uses TCP.
+* [Page Downloader](https://github.com/mr-Arturio/page-fetcher) - An application that downloads a file from a given URL and saves it to a local file on your machine.
+* [**Git** Cheat Sheet](https://cs.fyi/guide/git-cheatsheet) - Useful commands and tips for Git.
+* [**Ruby** Basic Cheat Sheet](https://learnxinyminutes.com/docs/ruby/) - A quick crash course in Ruby.
+
+
 
 ### Lectures
 * [**Objects** in JavaScript](/Module_1/Week_2/L1_JS_Objects.md)
