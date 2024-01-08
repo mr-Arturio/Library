@@ -8,6 +8,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
  * for emojis in VS - windows key + . (dot)
  * ```++n``` & ```n++``` - differ in when they increment the value of n. ```++n``` Increments `n` before its current value is used or returned. ```n++``` Increments `n` after its current value is used or returned.
 * JavaScript
+  * [String Methods](./String/String_Methods.md)
   * [Recursion Function](/useful/recursionFunction.md)
   * [Palindrome](/useful/palindrome.md)
   * [OOP(Method + this)](/useful/toDoList.md)
