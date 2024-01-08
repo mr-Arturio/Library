@@ -16,6 +16,7 @@ This repository contains all of the notes taken by [Artur Tereshchenko](https://
   * [Callback Function](/Module_2/callbackExample.md)
   * [Binary search algorithm](/useful/binarySearch.md) -  JavaScript implementation of the binary search algorithm for searching for a target value within a sorted array of numbers.
   * [Mapping/while](/useful/mapping.md) - The function begins by defining a mapping (romanMap) of Roman numerals to their corresponding Arabic values in descending order + while loop.
+  * [Array.prototype.find()](/useful/find.md) - returns the first element in the provided array that satisfies the provided testing function. Quite handy
   <br>
 * HTML/CSS 
   * [CSS FlexBox cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
